@@ -48,3 +48,7 @@
     text-decoration: underline;
     display: block;
 }
+
+.institucional__video {
+    width: 100vw;
+}
